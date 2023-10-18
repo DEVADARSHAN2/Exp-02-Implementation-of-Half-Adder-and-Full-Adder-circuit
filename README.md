@@ -63,7 +63,7 @@ endmodule
 ```
 ## Logic symbol & Truthtable
 ### Truth Table:
-HALF ADDER:
+## HALF ADDER:
 ![266758602-9b4a71eb-8d15-4ecd-b42f-38f3636c6e1b](https://github.com/Alfredsec/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120621608/5f147812-2b46-4117-b2f8-734931f730bd)
 
 ## FULL ADDER:
@@ -78,7 +78,7 @@ HALF ADDER:
 ![266758684-2f67b3a2-4ccf-4d82-94c9-39429db27018](https://github.com/Alfredsec/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120621608/dbb31564-6dc0-4433-9b98-5fb393d01c7a)
 
 ## Output:
-HALF ADDER
+## HALF ADDER
 ![266758710-5357d606-086d-4bc6-a757-2f6e15881137](https://github.com/Alfredsec/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120621608/235393b1-9f0d-4198-bc3e-c057fd9b9752)
 
 ## FULL ADDER
