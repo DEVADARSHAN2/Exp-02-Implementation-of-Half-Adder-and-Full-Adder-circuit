@@ -66,14 +66,14 @@ endmodule
 HALF ADDER:
 ![266758602-9b4a71eb-8d15-4ecd-b42f-38f3636c6e1b](https://github.com/Alfredsec/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120621608/5f147812-2b46-4117-b2f8-734931f730bd)
 
-FULL ADDER:
+## FULL ADDER:
 ![266758619-629eae2f-49e4-45c9-883a-42305ca95f2c](https://github.com/Alfredsec/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120621608/e579f3f0-0864-4e8f-abba-20c258eff9d2)
 
 ## RTL
-HALF ADDER
+## HALF ADDER
 ![266758666-d8ac11fc-a13f-4ca7-afb5-5010992a3a99](https://github.com/Alfredsec/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120621608/df7bc321-6d9a-4d2a-bda2-abd715c550c8)
 
-##FULL ADDER
+## FULL ADDER
 
 ![266758684-2f67b3a2-4ccf-4d82-94c9-39429db27018](https://github.com/Alfredsec/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120621608/dbb31564-6dc0-4433-9b98-5fb393d01c7a)
 
@@ -81,7 +81,7 @@ HALF ADDER
 HALF ADDER
 ![266758710-5357d606-086d-4bc6-a757-2f6e15881137](https://github.com/Alfredsec/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120621608/235393b1-9f0d-4198-bc3e-c057fd9b9752)
 
-##FULL ADDER
+## FULL ADDER
 ![266758724-41b25b21-d2ef-4ff0-b67d-dca564172dd8](https://github.com/Alfredsec/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/120621608/38ac15b5-29b2-4da5-a09a-677fa00c4d25)
 
 
